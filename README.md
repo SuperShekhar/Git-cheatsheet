@@ -219,6 +219,9 @@ User Commands for Git
 
 44. Quit Vim Editor:
     Press `Esc` key, then type `:wq` and press `Enter`.
+    If the fle content has not been changed type `:q!`
+    Esc is used to go to normal mode.Clicking `i` in 
+    normal mode goes to insert mode.
 
 45. Shortcut for Pushing to a Branch:
     ```bash
